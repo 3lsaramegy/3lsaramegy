@@ -1,5 +1,13 @@
 # HI im Mahmoud Elsaramegy
-![Photo to me](/images/myphoto.png)
+##  What I can do ??
+### Ican do it
+* By Python
+    * Web BackEND by  **Django** 🤨😁
+    * DeskTop Apps by **PyQt5** 🤩🖤
+* By Cpp{c++}
+    * I laren Now 😊
+## I Will Laren *flutter* 😮😏
+
 
 
 
