@@ -1,7 +1,7 @@
 # HI im Mahmoud Elsaramegy 😊😊🤨 
 
-https://www.facebook.com/3lsaramegyx500 - automatic!
-[GitHub](https://www.facebook.com/3lsaramegyx500/)
+
+[facebook](https://www.facebook.com/3lsaramegyx500/)
 
 ## I can Do👇👇
 ### any code  By Python 😎
