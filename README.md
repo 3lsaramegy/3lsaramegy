@@ -1,18 +1,16 @@
-# HI im Mahmoud Elsaramegy
-##  What I can do ??
-### Ican do it
-* By Python
-    * Web BackEND by  **Django** 🤨😁
-    * DeskTop Apps by **PyQt5** 🤩🖤
-* By Cpp{c++}
-    * I laren Now 😊
-## I Will Laren *flutter* 😮😏
+# HI im Mahmoud Elsaramegy 😊😊🤨 [facebook profile] (https://www.facebook.com/3lsaramegyx500/)
 
+## I can Do👇👇
+### any code  By Python 😎
+### Some codes By C++ {}; 😎🤑
+## 👀 I’m interested in {C++,python,Drat} 🤴🤴
+## 👨‍🏫👨‍🏫 I’m currently learning {C++,Dart} 😅
 
-
-
-
-
+* I Study
+    * FLUTTER 😍
+    * C++    🤯🤯
+    * Dart  😮🤔😮
+# Thank You To Visit My 😍🥰😘
 <!---
 - 👋 Hi, I’m MahmoudElsaramegy
 - 👀 I’m interested in {C++,python,Drat,Flutter,django}
