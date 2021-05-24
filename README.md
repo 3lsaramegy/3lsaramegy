@@ -1,11 +1,7 @@
 # Welcome in Elsaramegy coding club 😎✌🤘
-
-![logo](.\images\ELSARAMEGYCLUB25.png "logo")
-
 # This Store to All Code 👨‍💻
-
 ### Massage My Any Time 😍 👇
-#### [![in](.\images\Instagram-icon.png")](https://www.instagram.com/3lsaramegy) 
+#### [Instagram](https://www.instagram.com/3lsaramegy) 
 
 <!---
 - 👋 Hi, I’m MahmoudElsaramegy
